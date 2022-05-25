@@ -58,5 +58,6 @@
 ___
 
 ## Заключение
+отак от
 
 [1]: [http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print#link12]
